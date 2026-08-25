@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @elsamoriina
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently trying to improve my skills in Javascript and Tailwind CSS
 - 📫 How to reach me elsamoriina@gmail.com
 
 <!---
